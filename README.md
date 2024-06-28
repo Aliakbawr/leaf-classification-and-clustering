@@ -76,7 +76,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn opencv-python scikit-im
 
 ### Classification
 
-- **Accuracy**: 100%
+- **Accuracy**: 97%
 - **Confusion Matrix**: The confusion matrix indicates perfect classification.
 
 ### Clustering
